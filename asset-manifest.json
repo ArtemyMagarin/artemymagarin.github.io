@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e9ebcc4.chunk.css",
+    "main.js": "/static/js/main.e231cbc6.chunk.js",
+    "main.js.map": "/static/js/main.e231cbc6.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.ec8558d2.chunk.js": "/static/js/2.ec8558d2.chunk.js",
+    "static/js/2.ec8558d2.chunk.js.map": "/static/js/2.ec8558d2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.588d390000ffe77ac4b9021abeaa262d.js": "/precache-manifest.588d390000ffe77ac4b9021abeaa262d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.3e9ebcc4.chunk.css.map": "/static/css/main.3e9ebcc4.chunk.css.map",
+    "static/media/cross.svg": "/static/media/cross.b1a70a6d.svg",
+    "static/media/heart-filled.svg": "/static/media/heart-filled.f1c2e44d.svg",
+    "static/media/heart-thin.svg": "/static/media/heart-thin.b15629e0.svg",
+    "static/media/logo.svg": "/static/media/logo.e083614f.svg"
+  }
+}
