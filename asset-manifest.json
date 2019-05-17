@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.b86581ff.chunk.css",
-    "main.js": "/static/js/main.1ac3b3f6.chunk.js",
-    "main.js.map": "/static/js/main.1ac3b3f6.chunk.js.map",
+    "main.css": "/static/css/main.76d25792.chunk.css",
+    "main.js": "/static/js/main.47096f50.chunk.js",
+    "main.js.map": "/static/js/main.47096f50.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/css/2.22a7d4ef.chunk.css": "/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.8f20df37.chunk.js": "/static/js/2.8f20df37.chunk.js",
-    "static/js/2.8f20df37.chunk.js.map": "/static/js/2.8f20df37.chunk.js.map",
+    "static/js/2.fda8db51.chunk.js": "/static/js/2.fda8db51.chunk.js",
+    "static/js/2.fda8db51.chunk.js.map": "/static/js/2.fda8db51.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.30353b3cb573e28304d797622e1f5ea1.js": "/precache-manifest.30353b3cb573e28304d797622e1f5ea1.js",
+    "precache-manifest.31a34fbdd2785d78627c5a7a17e33153.js": "/precache-manifest.31a34fbdd2785d78627c5a7a17e33153.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.b86581ff.chunk.css.map": "/static/css/main.b86581ff.chunk.css.map",
+    "static/css/main.76d25792.chunk.css.map": "/static/css/main.76d25792.chunk.css.map",
+    "static/media/checkmark.svg": "/static/media/checkmark.1ab790b9.svg",
     "static/media/cross.svg": "/static/media/cross.b1a70a6d.svg",
-    "static/media/heart-filled.svg": "/static/media/heart-filled.f1c2e44d.svg",
-    "static/media/heart-thin.svg": "/static/media/heart-thin.b15629e0.svg",
+    "static/media/female.jpeg": "/static/media/female.562a67a1.jpeg",
+    "static/media/main.css": "/static/media/heart-filled.1842a9dd.svg",
+    "static/media/heart-thin.svg": "/static/media/heart-thin.91d824c1.svg",
     "static/media/logo.svg": "/static/media/logo.e083614f.svg",
-    "static/media/magnifying-glass.svg": "/static/media/magnifying-glass.9df51d4e.svg"
+    "static/media/magnifying-glass.svg": "/static/media/magnifying-glass.9df51d4e.svg",
+    "static/media/male.jpeg": "/static/media/male.793c6471.jpeg",
+    "static/media/product.css": "/static/media/star.91c9bc34.svg"
   }
 }
