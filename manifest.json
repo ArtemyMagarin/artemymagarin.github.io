@@ -1,5 +1,6 @@
 {
-  "name": "FactoryFinder",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
@@ -7,6 +8,8 @@
       "type": "image/x-icon"
     }
   ],
-  "theme_color": "#ffffff",
-  "display": "standalone"
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
 }
