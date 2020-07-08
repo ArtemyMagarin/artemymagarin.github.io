@@ -32,4 +32,3 @@ var i=require("./debounce"),e=require("./isObject"),n="Expected a function";func
 },{"./debounce":"CXfR","./isObject":"u9vI"}],"vEnA":[function(require,module,exports) {
 "use strict";var e=require("./wavify.js"),t=n(require("lodash/throttle"));function n(e){return e&&e.__esModule?e:{default:e}}function o(){return(0,e.wavify)(document.querySelector(".footer-wave path"),{height:20,bones:3,amplitude:50,color:"#EEE6E6",speed:.1})}function r(e){var t=e.getBoundingClientRect();return t.top>=0&&t.bottom<=(window.innerHeight||document.documentElement.clientHeight)}window.addEventListener("load",function(){var e=o();document.addEventListener("scroll",(0,t.default)(function(){r(document.querySelector(".footer-wave"))?e.play():e.pause()},100))});
 },{"./wavify.js":"Tfq5","lodash/throttle":"Ywd4"}]},{},["vEnA"], null)
-//# sourceMappingURL=/index-wave.7b5f14a0.js.map
