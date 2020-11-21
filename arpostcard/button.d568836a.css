@@ -1,0 +1,2 @@
+.next-button-wrapper{position:fixed;bottom:0;width:100%}.next-button-wrapper .next-button{display:block;transition:transform .15s ease-in;width:calc(100% - 28px);max-width:386px;margin-bottom:14px}.next-button-wrapper .next-button.hidden{transform:translateY(200%);transition:transform .1s}
+/*# sourceMappingURL=/arpostcard/button.d568836a.css.map */
