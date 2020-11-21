@@ -473,7 +473,7 @@ document.querySelector("#go-back-to-1").addEventListener("click", () => (0, _pag
 document.querySelector("#go-back-to-2").addEventListener("click", () => (0, _paginator.openPage)(2));
 document.getElementById("save-button").addEventListener("click", () => (0, _paginator.openPage)(3));
 document.querySelector('[data-resultLink]').addEventListener('click', () => {
-  setTimeout(() => document.getElementById("audio").play(), 10 * 1000);
+  document.getElementById("audio").play();
 });
 document.querySelector('[data-resultLink]').addEventListener("message", function (event) {
   if (event.data === "_apple_ar_quicklook_button_tapped") {
