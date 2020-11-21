@@ -1,0 +1,46 @@
+.screen-container {
+	position: relative;
+}
+
+.step-screen {
+	position: absolute;
+	top: 0;
+	transform: translateX(-50%);
+	left: 50%;
+	width: 100%;
+	max-width: 414px;
+	height: 100vh;
+	height: calc(var(--vh, 1vh) * 100);
+	background-color: white;
+	overflow: auto;
+	padding: 16px;
+}
+
+@keyframes animation-rtl {
+	from {
+		transform: translateX(100%);
+	}
+	to {
+		transform: translateX(-50%);
+	}
+}
+@keyframes animation-ltr {
+	from {
+		transform: translateX(-200%);
+	}
+	to {
+		transform: translateX(-50%);
+	}
+}
+
+.animate_rtl {
+	animation: 250ms ease-in-out 0s animation-rtl;
+}
+.animate_ltr {
+	animation: 250ms ease-in-out 0s animation-ltr;
+}
+.top {
+	z-index: 2;
+}
+
+/*# sourceMappingURL=index.cdab0d35.css.map */

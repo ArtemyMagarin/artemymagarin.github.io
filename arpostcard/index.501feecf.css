@@ -1,0 +1,98 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	overflow: hidden;
+  	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+* {
+	box-sizing: border-box;
+}
+.models-list-wrapper {
+	max-width: 100%;
+	overflow: auto;
+}
+
+.models-list {
+	display: flex;
+	margin: 0;
+	padding: 0 12px 0 0;
+	list-style: none;
+}
+
+.model-preview-item {
+	margin: 12px;
+	user-select: none;
+}
+.spacer {
+	height: 0;
+	width: 12px;
+	user-select: none;
+	opacity: 0;
+	visibility: hidden;
+}
+.model-preview-item a {
+	user-select: none;
+}
+.model-preview-item img {
+	border-radius: 20px;
+	box-shadow: 0 0 8px 4px rgba(0,0,0,0.1);
+	max-width: 250px;
+	height: auto;
+	user-select: none;
+}
+
+
+.select-button {
+	width: 100%;
+	background-color: black;
+	color: white;
+	padding: 8px 14px;
+	margin-top: 12px;
+	border-radius: 8px;
+	border: 0;
+	user-select: none;
+	font-size: 14px;
+	cursor: pointer;
+}
+
+.model-preview-item .select-button:active {
+	background-color: gray;
+}
+
+[hidden] {
+	pointer-events: none;
+	visibility: hidden;
+}
+
+.step-2 .mic {
+	display: block;
+	width: auto;
+	margin: 32px auto 16px;
+}
+
+.step-2 .audio {
+	width: calc(100% - 32px);
+	margin: 16px auto;
+}
+
+.step-3 .result img,
+.step-3 .result a {
+	display: block;
+	max-width: 100%;
+}
+
+.step-3 p {
+	text-align: center;
+}
+
+#go-back-to-1,
+#go-back-to-2 {
+	color: rgb(0,122,255);
+	font-size: 14px;
+	text-decoration: none;
+	font-weight: normal;
+}
+/*# sourceMappingURL=index.501feecf.css.map */
