@@ -443,7 +443,7 @@ function openPreview(e) {
   previewTitle.innerText = card.dataset.title;
   previewImage.src = resultImage.src = card.querySelector('img').src;
   previewLink.href = resultLink.href = card.querySelector('a').href;
-  resultLink.href = resultLink.href + '?custom=https://artemymagarin.github.io/assets/banner.html';
+  resultLink.href = resultLink.href + '?custom=https://artemymagarin.github.io/arpostcard/assets/banner.html';
   previewWrapper.hidden = false;
 }
 
